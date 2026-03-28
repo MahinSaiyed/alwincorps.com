@@ -6,9 +6,8 @@
 ## 🔗 Live Website
 👉 https://alwincorps.com
 
-
 ## 📸 Preview
-![Website Screenshot](screenshot.png)
+![Website Screenshot](Screenshot.png)
 
 ## 🛠 Tech Stack
 - WordPress  
